@@ -328,7 +328,7 @@ li {
 
 #contact-form {
   display: flex;
-  flex-direction: column;  
+  flex-direction: column;
 }
 
 #contact-form * {
