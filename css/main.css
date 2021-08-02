@@ -338,9 +338,10 @@ li {
 
 footer div {
   width: 25%;
-  margin: auto;
+  margin: 0.5rem auto;
   padding: 2rem;
   text-align: center;
   color: white;
-  background-color: blue;
+  background-color: rgb(99, 99, 235);
+  border-radius: 5px;
 }
